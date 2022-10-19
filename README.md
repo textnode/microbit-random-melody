@@ -4,6 +4,14 @@ Probably buggy, but still fun!
 
 Operator instructions:
 
+Connect to microbit micropython REPL
+
+import ran
+
+ran.run()
+
+Follow the instructions on the microbit screen by tilting the microbit in all directions until the led grid is completely lit (this calibrates the compass).
+
 Tilt microbit left to select one octave lower.
 
 Lay microbit flat to select middle octave.
