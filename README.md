@@ -2,6 +2,8 @@
 
 Probably buggy, but still fun!
 
+Requires micropython
+
 Operator instructions:
 
 Connect to microbit micropython REPL
